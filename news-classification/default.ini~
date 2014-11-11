@@ -1,0 +1,3 @@
+[default]
+mongo_url=mongodb://app_mole_dev:SOh3TbYhxuLiW8@nosql04-dev.datayes.com/mole-dev
+
